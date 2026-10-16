@@ -19,7 +19,7 @@ output/
 
 ## Quick start
 
-Requires Python 3.9+ and an ElevenLabs account (the free tier is enough for this demo).
+Requires Python 3.9+ and an ElevenLabs API key. The free plan works with ElevenLabs’ built-in voices; local-accent voices from the Voice Library need a paid plan.
 
 ```bash
 git clone https://github.com/vgarayara/elevenlabs-multilingual-cx-demo.git
