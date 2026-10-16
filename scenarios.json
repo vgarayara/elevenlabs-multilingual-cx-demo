@@ -1,0 +1,11 @@
+{
+  "scenario": "card_replacement",
+  "description": "An AI agent confirms a lost-card block and a replacement card, voiced for each market.",
+  "lines": {
+    "en-US": "Hi Maria, thanks for calling. I've blocked your lost card, so nobody can use it, and a new one is on its way. It should arrive in three to five business days. Is there anything else I can help you with today?",
+    "es-MX": "Hola María, gracias por llamar. Ya bloqueé tu tarjeta extraviada para que nadie la pueda usar, y te estamos enviando una nueva. Debe llegarte en un plazo de tres a cinco días hábiles. ¿Hay algo más en lo que te pueda ayudar?",
+    "es-CO": "Hola María, con mucho gusto. Ya bloqueé su tarjeta perdida para que nadie la pueda usar, y le estamos enviando una nueva. Le debe llegar en tres a cinco días hábiles. ¿Hay algo más en lo que le pueda colaborar?",
+    "es-PE": "Hola María, gracias por comunicarse con nosotros. Ya bloqueé su tarjeta perdida para que nadie pueda usarla, y le estamos enviando una nueva. Le llegará en un plazo de tres a cinco días útiles. ¿En qué más le puedo ayudar?",
+    "es-CL": "Hola María, gracias por llamar. Ya bloqueé tu tarjeta extraviada para que nadie la pueda usar, y te estamos mandando una nueva. Te debería llegar en tres a cinco días hábiles. ¿Te puedo ayudar en algo más?"
+  }
+}

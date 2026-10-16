@@ -1,0 +1,8 @@
+{
+  "_comment": "Copy this file to voices.json and paste a voice_id for each market. Run `python demo.py --list-voices` to see the voices in your account.",
+  "en-US": "PASTE_VOICE_ID_HERE",
+  "es-MX": "PASTE_VOICE_ID_HERE",
+  "es-CO": "PASTE_VOICE_ID_HERE",
+  "es-PE": "PASTE_VOICE_ID_HERE",
+  "es-CL": "PASTE_VOICE_ID_HERE"
+}
