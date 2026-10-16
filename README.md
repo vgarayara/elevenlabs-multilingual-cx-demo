@@ -16,6 +16,7 @@ output/
 ├── card_replacement_es-PE.mp3
 └── card_replacement_es-CL.mp3
 ```
+🎧 Listen to the results in samples/.
 
 ## Quick start
 
